@@ -168,6 +168,13 @@
                 </div>
             {%- endif -%}
 
+            <!--- CASE 6 :  About me Page -->   
+            {%- if page.permalink == "/me" -%}
+                <!--- Show Homepage -->
+                {%- include About.html -%}
+                <script src="/assets/js/modeswitcher.js"></script>
+            {%- endif -%}
+
         </div>
     </section>     
 </body>
