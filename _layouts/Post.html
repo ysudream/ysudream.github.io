@@ -91,7 +91,7 @@
 
             {%- if page.content-type == "notes" 
             or page.content-type == "post"  -%}
-                <div class="column is-three-fifths">
+                <div class="column is-four-fifths">
                     <main>
                         <div class="note-page-section">
                             <div class="buttons for-back-home">
@@ -123,7 +123,7 @@
             <!--- CASE 3 : Static Page -->
 
             {%- if page.content-type == "eg" -%}
-                <div class="column is-half">
+                <div class="column is-7">
                     <main>
                         <h1>{{page.title}}</h1>
                         {%- include Content.html -%}
@@ -161,7 +161,7 @@
             <!--- CASE 5 :  Notes Listing page -->   
 
             {%- if page.permalink == "/notes" -%}
-                <div class="column is-half">
+                <div class="column is-7">
                     {%- include FeedContent.html -%}
                     {%- include Feed.html -%}
                     {%- include Footer.html -%}             
@@ -170,7 +170,8 @@
 
             <!--- CASE 6 :  About me Page -->   
             {%- if page.permalink == "/me" -%}
-                <!--- Show Homepage -->
+
+                <!--- Show Aboutme Page -->
                 {%- include About.html -%}
                 <script src="/assets/js/modeswitcher.js"></script>
             {%- endif -%}
