@@ -126,6 +126,7 @@ defaults:
       type: notes
     values:
       layout: Post
+      permalink: /notes/:title
       content-type: notes
 # Exclude from processing.
 # The following items will not be processed, by default.
