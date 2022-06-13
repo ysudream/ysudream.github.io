@@ -1,6 +1,6 @@
 ---
 title: Markdown Rendered
-notetype: unfeed
+notetype: feed
 date: 01-02-2021
 ---
 
