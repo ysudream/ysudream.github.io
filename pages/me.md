@@ -42,9 +42,9 @@ _PyeongChang, South Korea_
 **Intern Reporter**
 *Seoul Economics Daily*  
 *Seoul, South Korea*  
--Provided assistance to reports covering various regional news
-
-2016.08 - 2017.01
-**Intern Reporter**
-*ABC News Seoul Bureau*
-*Seoul, South Korea*
+-Provided assistance to reports covering various regional news  
+  
+2016.08 - 2017.01  
+**Intern Reporter**  
+*ABC News Seoul Bureau*  
+*Seoul, South Korea*  
