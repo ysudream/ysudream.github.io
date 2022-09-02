@@ -1,6 +1,7 @@
 ---
 permalink: /aboutme
 layout: Post
+content-type: static
 title: Sang-un Youn
 ---
 
@@ -11,9 +12,9 @@ title: Sang-un Youn
 ---
 
 2011 - 2019
-**Hankuk University of Foreign Studies**
-B.A. in English Literature
-Double Major in International Relations
+\\**Hankuk University of Foreign Studies**
+\\B.A. in English Literature
+\\Double Major in International Relations
 
 ## PROFESSIONAL APPOINTMENTS
 
