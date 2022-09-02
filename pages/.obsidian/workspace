@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "notes.md",
+            "file": "me.md",
             "mode": "source"
           }
         }
@@ -52,7 +52,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "67fd4b66895e4d6c",
@@ -68,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes.md",
+                "file": "me.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,8 +89,8 @@
   },
   "active": "6fc39e0e1dd6c0fd",
   "lastOpenFiles": [
-    "notes.md",
     "me.md",
+    "notes.md",
     "posts.md",
     "lists.md",
     "index.md",
