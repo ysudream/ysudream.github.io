@@ -38,8 +38,8 @@ _PyeongChang, South Korea_
 -Local Fixer for Good Morning America and World News with David Muir   
 -Local Associate Producer, providing logistics for ABC News Coverage of 2018 PyeongChang Winter Olympics  
 
-2017.03-2017.08
-**Intern Reporter**
+2017.03-2017.08  
+**Intern Reporter**  
 *Seoul Economics Daily*  
 *Seoul, South Korea*  
 -Provided assistance to reports covering various regional news  
