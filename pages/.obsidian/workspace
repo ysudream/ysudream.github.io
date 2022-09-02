@@ -52,8 +52,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "67fd4b66895e4d6c",
@@ -89,6 +88,11 @@
   },
   "active": "6fc39e0e1dd6c0fd",
   "lastOpenFiles": [
-    "me.md"
+    "me.md",
+    "posts.md",
+    "notes.md",
+    "404.md",
+    "index.md",
+    "lists.md"
   ]
 }

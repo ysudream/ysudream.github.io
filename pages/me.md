@@ -1,7 +1,6 @@
 ---
 permalink: /aboutme
 layout: Post
-content-type: static
 title: Sang-un Youn
 ---
 
