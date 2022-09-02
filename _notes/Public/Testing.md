@@ -1,7 +1,8 @@
 ---
-title : Test
-feed: show
+title : Testing
+feed: hide
 date : 09-02-2022
+permalink: /tester
 ---
 
 
