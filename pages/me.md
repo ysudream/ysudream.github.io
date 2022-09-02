@@ -11,12 +11,12 @@ title: Sang-un Youn
 ---
 2011 - 2019
 **Hankuk University of Foreign Studies**
-B.A. in English Literature  
+B.A. in English Literature
 Double Major in International Relations
 
 #### PROFESSIONAL APPOINTMENTS
 ---
-2018.12 - 
+2018.12 -
 **Reporter**  
 *Joongang Ilbo*
 Seoul, South Korea
