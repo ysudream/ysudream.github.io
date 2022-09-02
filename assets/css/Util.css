@@ -13,31 +13,31 @@ layout: Stylesheet
 }
 
 .very-small {
-    font-size: 12px !important;
+    font-size: 8px !important;
 }
 
 .medium-small {
-    font-size: 13.5px !important;
+    font-size: 10px !important;
 }
 
 .small {
-    font-size: 16px !important;
+    font-size: 12px !important;
 }
 
 .small-medium {
-    font-size: 18px !important;
+    font-size: 13px !important;
 }
 
 .medium {
-    font-size: 22px !important;
+    font-size: 14px !important;
 }
 
 .medium-large {
-    font-size: 25px !important;
+    font-size: 16px !important;
 }
 
 .large {
-    font-size: 28px !important;
+    font-size: 18px !important;
 }
 
 .serif {
