@@ -1,12 +1,9 @@
 ---
-title : Testing
+title : (Test) 스타트업 투자 큰손, 이제는 중동인가
 feed: show
-date : 09-02-2022
+date : 10-22-2022
 permalink: /tester
 ---
 
 
-Testing Again with English.
-한글  지원은?
-
-If you show this what about autocomplete
+중동으로 가고 있다 사람들이

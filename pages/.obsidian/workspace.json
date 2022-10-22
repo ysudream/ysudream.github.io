@@ -1,0 +1,106 @@
+{
+  "main": {
+    "id": "e70f7177d21e066d",
+    "type": "split",
+    "children": [
+      {
+        "id": "0af07e1ef4c2938f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "48e7e1c318bfd506",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7c074d6b092e36c0",
+    "type": "split",
+    "children": [
+      {
+        "id": "31153b2ec0a71c02",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "51685b08558057be",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "11bfd547aef8d24b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "67fd4b66895e4d6c",
+    "type": "split",
+    "children": [
+      {
+        "id": "4deff8ca38209d9d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f41792fe55d63719",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "ribbon": {
+    "mostRecentAction": ""
+  },
+  "active": "48e7e1c318bfd506",
+  "lastOpenFiles": [
+    "me.md",
+    "notes.md",
+    "posts.md",
+    "lists.md",
+    "index.md",
+    "404.md"
+  ]
+}
