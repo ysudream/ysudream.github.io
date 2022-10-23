@@ -1529,10 +1529,10 @@ li {
 }
 
 a[href^="http"] {
-    background-image: url(../img/external-link.svg);
+    /*background-image: url(../img/external-link.svg);
     background-repeat: no-repeat;
     background-position: right;
-    padding-right: 1.3rem;
+    padding-right: 1.3rem;*/
 }
 
 .home-sub-text {
