@@ -2,7 +2,7 @@
 title : (Test) 스타트업 투자 큰손, 이제는 중동인가
 feed: show
 date : 10-22-2022
-permalink: /tester
+permalink: /middleeast
 ---
 
 
