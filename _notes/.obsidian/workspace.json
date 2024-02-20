@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "ea81d7c57f05d04c",
+            "id": "aa86d4b26d3ea2fc",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -62,6 +62,14 @@
             "type": "leaf",
             "state": {
               "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "5815987b15e3726e",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
               "state": {}
             }
           }
@@ -146,13 +154,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ea81d7c57f05d04c",
+  "active": "2850852575179034",
   "lastOpenFiles": [
+    "Public/Middle East.md",
+    "2023-02-23.md",
     "Public/Welcome to the garden.md",
     "Public/Markdown Rendered.md",
-    "Public/Middle East.md",
     "Untitled.canvas",
-    "2023-02-23.md",
     "darcey-beau-q8D7WZc40eA-unsplash.jpg"
   ]
 }
