@@ -1,0 +1,97 @@
+{
+  "main": {
+    "id": "b129e2efd8c4d898",
+    "type": "split",
+    "children": [
+      {
+        "id": "e60c19aab3f2e54a",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Public/Welcome to the garden.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f96eccf82a5e7c30",
+    "type": "split",
+    "children": [
+      {
+        "id": "1e4e54486b25480f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9583062440b209e2",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "607d86557f658e72",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "d92712c6160541b9",
+    "type": "split",
+    "children": [
+      {
+        "id": "344d31150c77a87a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "acecad18b7511c3e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Public/Welcome to the garden.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "e60c19aab3f2e54a",
+  "lastOpenFiles": [
+    "Public/Welcome to the garden.md",
+    "Public/Markdown Rendered.md",
+    "Public/Hidden Note.md",
+    "Public/Test.md"
+  ]
+}
