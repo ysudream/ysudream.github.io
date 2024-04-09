@@ -2,6 +2,6 @@
 layout: Post
 permalink: /notes
 feedformat: card
-title: Notes & Thoughts
+title: Notes
 ---
 
