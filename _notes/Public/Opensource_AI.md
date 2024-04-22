@@ -4,7 +4,6 @@ feed: show
 date: 09-04-2024
 permalink: /opensourceai
 ---
-![Markus Spiske from Unsplash](https://images.unsplash.com/photo-1533709752211-118fcaf03312?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)
 
 *2024.04.14* - 기사로 쓰지 못하는 의식의 흐름 #1
 
