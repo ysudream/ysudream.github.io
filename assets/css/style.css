@@ -64,9 +64,9 @@ html[data-theme="dark"] {
     --text-jumbo: clamp(2.13rem, calc(1.90rem + 1.15vw), 4rem);
     --text-weight-bold: 600;
     --text-weight-normal: 400;
-    --text-leading-wide: 1.6em;
-    --text-leading-normal: 1.4em;
-    --text-leading-narrow: 1.2em;
+    --text-leading-wide: 1.8em;
+    --text-leading-normal: 1.6em;
+    --text-leading-narrow: 1.4em;
     --padding-normal: 1.2rem;
     --padding-broad: 2rem;
     --padding-thin: 0.8rem;
