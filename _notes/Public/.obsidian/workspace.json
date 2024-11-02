@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "d7515b7c7fa2ed27",
+        "id": "0d9d33cc1379a69a",
         "type": "tabs",
         "children": [
           {
-            "id": "b102a5c27e919179",
+            "id": "f8408a1d02f9422a",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "c3208ad635fe306f",
@@ -147,6 +146,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b102a5c27e919179",
-  "lastOpenFiles": []
+  "active": "f8408a1d02f9422a",
+  "lastOpenFiles": [
+    "Ad_Platform.md",
+    "Opensource_AI.md"
+  ]
 }

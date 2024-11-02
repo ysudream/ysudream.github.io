@@ -1,6 +1,6 @@
 ---
 title: 오픈소스 AI, 괜찮을까?
-feed: show
+feed: hide
 date: 09-04-2024
 permalink: /opensourceai
 ---
