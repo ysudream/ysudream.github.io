@@ -5,6 +5,12 @@
   to {
     transform: rotate(359deg); } }
 
+@font-face {
+  font-family: 'Pretendard-Regular';
+  src: url('https://cdn.jsdelivr.net/gh/Project-Noonnu/noonfonts_2107@1.1/Pretendard-Regular.woff') format('woff');
+  font-weight: 400;
+  font-style: normal; }
+
 .delete, .is-unselectable, .button {
   -webkit-touch-callout: none;
   -webkit-user-select: none;
@@ -232,8 +238,7 @@ button,
 input,
 select,
 textarea {
-  font-family: "IBM Plex Sans", BlinkMacSystemFont, -apple-system, "Segoe UI", "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue", "Helvetica", "Arial", sans-serif; }
-
+  font-family: 'Pretendard-Regular', "IBM Plex Sans", BlinkMacSystemFont, -apple-system, "Segoe UI", "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue", "Helvetica", "Arial", sans-serif;}
 code,
 pre {
   -moz-osx-font-smoothing: auto;
@@ -244,7 +249,8 @@ body {
   color: var(--color-text-main);
   font-size: var(--text-m);
   font-weight: 400;
-  line-height: 1.4;
+  line-height: 1.63;
+  letter-spacing: -0.3;
   padding: 1rem;
  }
 
