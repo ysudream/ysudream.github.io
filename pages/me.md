@@ -20,7 +20,7 @@ Double Major in International Relations
 
 ---
 
-2018.12 -  
+2018.12 - 2025.01 
 **Reporter**  
 _Joongang Ilbo_  
 _Seoul, South Korea_

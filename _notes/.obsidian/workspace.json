@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Public/Middle East.md",
+                "file": "Public/Opensource_AI.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Public/Middle East.md",
+                "file": "Public/Opensource_AI.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Public/Middle East.md",
+                "file": "Public/Opensource_AI.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Public/Middle East.md"
+                "file": "Public/Opensource_AI.md"
               }
             }
           }
@@ -154,13 +154,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2850852575179034",
+  "active": "aa86d4b26d3ea2fc",
   "lastOpenFiles": [
-    "Public/Middle East.md",
     "2023-02-23.md",
+    "darcey-beau-q8D7WZc40eA-unsplash.jpg",
+    "Public/Middle East.md",
     "Public/Welcome to the garden.md",
     "Public/Markdown Rendered.md",
-    "Untitled.canvas",
-    "darcey-beau-q8D7WZc40eA-unsplash.jpg"
+    "Untitled.canvas"
   ]
 }
